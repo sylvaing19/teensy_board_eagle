@@ -2,8 +2,11 @@
 
 # Backup files
 *.s#?
+*.s$?
 *.b#?
+*.b$?
 *.l#?
+*.l$?
 
 # Eagle project file
 # It contains a serial number and references to the file structure
@@ -39,6 +42,7 @@ eagle.epf
 
 *.eps
 
+
 # file locks introduced since 7.x
 *.lck
 
@@ -46,3 +50,4 @@ eagle.epf
 
 # Ignore list for Google Sketchup
 *.skb
+
